@@ -1,4 +1,10 @@
-# Muddel
+
+[Muddel](#starMuddel)
+[Screenshots](#starScreenshots)
+
+
+## :star:Muddel
+
 Muddel is an emacs mud client 
 
 
@@ -18,7 +24,9 @@ It features :
 
   
 
-**_Screenshots_
+## :star:Screenshots
+
+
 
 *FIRST:  
 Be aware that you *may* need to change your theme or at LEAST your baackground if you use a light-colored background as it won't show up 
