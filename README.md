@@ -55,3 +55,9 @@ Ansi color is supported by default. *(BE AWARE: You HAVE to add a line of elisp 
 
 
 ## :star:Installation
+
+**ATTENTION:**  In order to have Ansi color support you *NEED* to follow step one. If you don't want it, feel free to skip it:
+
+**1:** Open up your emacs init file *(either .emacs or .init)* and add one line of elisp to it:
+
+![Ansi support Elisp](https://github.com/Michael-Garibaldi/Muddel/blob/main/Elisp.jpg)
