@@ -33,23 +33,25 @@ Be aware that you *may* need to change your theme to something with a dark backg
 
 The Login Screen:
 
-[https://github.com/Michael-Garibaldi/Muddel/blob/main/login.jpg]
+![Login screen](https://github.com/Michael-Garibaldi/Muddel/blob/main/login.jpg)
+
+
 
 The login screen **DOES** throw up some junk at the top, but beyond that, it's fine.
 
 You can either use the minibuffer **OR** the full text buffer (which is default) to enter your text into.  The minibuffer is triggered by C-c c:
 
-[https://github.com/Michael-Garibaldi/Muddel/blob/main/Mini_Buffer.jpg]
+![The Minibuffer](https://github.com/Michael-Garibaldi/Muddel/blob/main/Mini_Buffer.jpg)
 
 
 The full text window is used  by default:
 
-[https://github.com/Michael-Garibaldi/Muddel/blob/main/Login_Text_Buffer.jpg]
+![The Full Text Window](https://github.com/Michael-Garibaldi/Muddel/blob/main/Login_Text_Buffer.jpg)
 
 
 Ansi color is supported by default. *(BE AWARE: You HAVE to add a line of elisp to your .emacs or .init for this to work, see the "INSTALL" section for details)*  :
 
-[https://github.com/Michael-Garibaldi/Muddel/blob/main/Ansi_support.jpg]
+![Ansi color support shown](https://github.com/Michael-Garibaldi/Muddel/blob/main/Ansi_support.jpg)
 
 
 ## :star:Installation
