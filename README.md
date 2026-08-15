@@ -61,3 +61,24 @@ Ansi color is supported by default. *(BE AWARE: You HAVE to add a line of elisp 
 **1:** Open up your emacs init file *(either .emacs or .init)* and add one line of elisp to it:
 
 ![Ansi support Elisp](https://github.com/Michael-Garibaldi/Muddel/blob/main/Elisp.jpg)
+
+Save this now.  
+
+**2:**  Download muddel.el.  You can either save it in your .emacs.d/ folder OR save it in emacs's program area (In Windows 11, that area is C:\Program Files\Emacs\emacs-30.1\share\emacs\30.1\lisp\play *(I'm using emacs 30.1)*.
+
+
+**3:** Be aware that once you start muddel, it will automatically attempt to connect to aardmud. You can change that easily, just edit the following two lines:
+
+![Muddel elisp](https://github.com/Michael-Garibaldi/Muddel/blob/main/muddel_elisp.jpg)
+
+Change it to whatever mud and port you'd like, just place the names inside the quotes, then save it.
+
+**4:**  Now you can either 
+
+a.) open up your emacs init file again and add in "**(require 'muddel)**"  (no quotes) and save it
+
+OR
+
+b.) **M-X Load-file** and go to the directory you saved Muddel in and load it. 
+
+If you **"require"**d it, you can **M-x start-my-telnet-buffer** and muddel will start.  If you loaded it, it will start automatically.
