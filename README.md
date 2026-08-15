@@ -1,8 +1,11 @@
+# CAUTION:  THIS PROJECT IS IN ALPHA MODE - IT RUNS, BUT YOU MAY FIND ERRORS!!
+
+
 
 [Muddel](#starMuddel)
 [Screenshots](#starScreenshots)
 [Installation](#Installation)
-
+[Cautions](#Cautions)
 
 ## :star:Muddel
 
@@ -82,3 +85,20 @@ OR
 b.) **M-X Load-file** and go to the directory you saved Muddel in and load it. 
 
 If you **"require"**d it, you can **M-x start-my-telnet-buffer** and muddel will start.  If you loaded it, it will start automatically.
+
+
+## :star:Cautions
+
+Please be aware that this is in Alpha Mode so you may find errors in this code.  Feel free to reach out or submit a pull. I'm a relative newbie in Elisp, so I don't bite!
+
+Be aware of the following issues:
+
+**1:** Your password WILL show up in plain text
+
+**2:** The first line contains garbage, but that's the end of it.
+
+**3:** The C-c c can be a bit finicky and =WILL= revert to the text buffer after you hit enter
+
+It's not fancy, no triggers, bots, or fancy windows.  Perhaps in the future, or feel free to submit a pull! 
+
+Enjoy!
