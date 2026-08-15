@@ -32,7 +32,7 @@ It features :
 
 
 *FIRST:  
-Be aware that you *may* need to change your theme to something with a dark background or at LEAST your baackground to a dark background if you use a light-colored background as it won't show up properly otherwise.   (Trust me, I hate this, my own theme doesn't work with it!)
+Be aware that you *may* need to change your theme to something with a dark background or at LEAST your background to a dark background if you use a light-colored background as it won't show up properly otherwise.   (Trust me, I hate this, my own theme doesn't work with it!)
 
 The Login Screen:
 
@@ -67,7 +67,7 @@ Ansi color is supported by default. *(BE AWARE: You HAVE to add a line of elisp 
 
 Save this now.  
 
-**2:**  Download muddel.el.  You can either save it in your .emacs.d/ folder OR save it in emacs's program area (In Windows 11, that area is C:\Program Files\Emacs\emacs-30.1\share\emacs\30.1\lisp\play *(I'm using emacs 30.1)*.
+**2:**  Download muddel.el.  You can either save it in your .emacs.d/ folder OR save it in emacs's program area (In Windows 11, that area is C:\Program Files\Emacs\emacs-30.1\share\emacs\30.1\lisp\play *(I'm using emacs 30.1)) *.
 
 
 **3:** Be aware that once you start muddel, it will automatically attempt to connect to aardmud. You can change that easily, just edit the following two lines:
@@ -98,6 +98,8 @@ Be aware of the following issues:
 **2:** The first line contains garbage, but that's the end of it.
 
 **3:** The C-c c can be a bit finicky and =WILL= revert to the text buffer after you hit enter
+
+**4:** The screen update refreshes the screen, rather than scrolling. 
 
 It's not fancy, no triggers, bots, or fancy windows.  Perhaps in the future, or feel free to submit a pull! 
 
