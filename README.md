@@ -99,7 +99,7 @@ Be aware of the following issues:
 
 **3:** The C-c c can be a bit finicky and =WILL= revert to the text buffer after you hit enter
 
-**4:** The screen update refreshes the screen, rather than scrolling. 
+**4:** ~~The screen update refreshes the screen, rather than scrolling.~~  ***THIS HAS BEEN FIXED*** 
 
 It's not fancy, no triggers, bots, or fancy windows.  Perhaps in the future, or feel free to submit a pull! 
 
