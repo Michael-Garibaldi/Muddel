@@ -16,7 +16,7 @@ It features :
 
 *  Ansi Color compatibility
 
-*  Input can be entered into either the minibuffer or the text buffer
+
 
   Right now it's in pre-alpha, so it's rough, but it's one file. Just place it into your emacs directory (in Windows it's C:\Program Files\Emacs\emacs-30.1\share\emacs\30.1\lisp\play) , restart Emacs and call it by typing in:
   
