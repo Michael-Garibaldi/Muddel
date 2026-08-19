@@ -42,12 +42,8 @@ The Login Screen:
 
 The login screen **DOES** throw up some junk at the top, but beyond that, it's fine.
 
-You can either use the minibuffer **OR** the full text buffer (which is default) to enter your text into.  The minibuffer is triggered by C-c c:
+You can  use the the full text buffer to to enter your text into.  :
 
-![The Minibuffer](https://github.com/Michael-Garibaldi/Muddel/blob/main/Mini_Buffer.jpg)
-
-
-The full text window is used  by default:
 
 ![The Full Text Window](https://github.com/Michael-Garibaldi/Muddel/blob/main/Login_Text_Buffer.jpg)
 
