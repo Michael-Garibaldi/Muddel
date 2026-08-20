@@ -85,7 +85,7 @@ If you **"require"**d it, you can **M-x start-my-telnet-buffer** and muddel will
 
 ## :star:Cautions
 
-Please be aware that this is in Alpha Mode so you may find errors in this code.  Feel free to reach out or submit a pull. I'm a relative newbie in Elisp, so I don't bite!
+Please be aware that this is in Beta Mode so you may find errors in this code.  Feel free to reach out or submit a pull. I'm a relative newbie in Elisp, so I don't bite!
 
 Be aware of the following issues:
 
