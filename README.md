@@ -1,11 +1,24 @@
 # CAUTION:  THIS PROJECT IS IN BETA MODE - IT RUNS, BUT YOU MAY FIND ERRORS!!
 
 
-
+[Updates](#star2Updates)
+[ToDo](#star2ToDo)
 [Muddel](#starMuddel)
 [Screenshots](#starScreenshots)
 [Installation](#Installation)
 [Cautions](#Cautions)
+
+
+## :star2:Updates
+
+**10/20/2026**
+
+Muddel now runs smoother with no screen refreshes after a carriage return is pressed.
+
+## :star2:ToDo
+
+**1. Get the minibufer to stay when triggerd. It stays up until carriage return is pressed (Trigger is C-c T)
+
 
 ## :star:Muddel
 
