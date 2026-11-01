@@ -1,8 +1,7 @@
-# CAUTION:  THIS PROJECT IS IN BETA MODE - IT RUNS, BUT YOU MAY FIND ERRORS!!
+#  THIS PROJECT IS IN PRODUCTION  MODE - IT RUNS, BUT YOU MAY FIND ERRORS!!
 
 
 [Updates](#star2Updates)
-[ToDo](#star2ToDo)
 [Muddel](#starMuddel)
 [Screenshots](#starScreenshots)
 [Installation](#Installation)
@@ -15,14 +14,10 @@
 
 Muddel now runs smoother with no screen refreshes after a carriage return is pressed.
 
-## :star2:ToDo
-
-**1. Get the minibufer to stay when triggerd. It stays up until carriage return is pressed (Trigger is C-c T)
-
 
 ## :star:Muddel
 
-Muddel is an emacs mud client 
+Muddel is an emacs mud client. Fopr the moment, it's pretty bare, but it works smoothly and can be used as a daily driver. 
 
 
 It features :
@@ -98,7 +93,7 @@ If you **"require"**d it, you can **M-x start-my-telnet-buffer** and muddel will
 
 ## :star:Cautions
 
-Please be aware that this is in Beta Mode so you may find errors in this code.  Feel free to reach out or submit a pull. I'm a relative newbie in Elisp, so I don't bite!
+Please be aware that this is in Production Mode but you may still find errors in this code.  Feel free to reach out or submit a pull. I'm a relative newbie in Elisp, so I don't bite!
 
 Be aware of the following issues:
 
